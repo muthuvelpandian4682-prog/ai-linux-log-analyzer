@@ -40,7 +40,7 @@ ai-linux-log-analyzer/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/muthuvelpandian4682/ai-linux-log-analyzer.git
+git clone https://github.com/muthuvelpandian4682-prog/ai-linux-log-analyzer.git
 cd ai-linux-log-analyzer
 2. Give execute permission
 chmod +x log_analyzer.sh
