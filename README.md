@@ -26,21 +26,27 @@ The tool demonstrates how AI-assisted thinking can be applied to traditional Lin
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+
+```text
 ai-linux-log-analyzer/
-├── log_analyzer.sh # Main script
-├── sample_syslog.log # Sample log file for testing
-├── error_patterns.txt # (Optional) pattern reference
+├── log_analyzer.sh
+├── sample_syslog.log
+├── error_patterns.txt
 └── README.md
+```
+
 ## ⚙️ How to Use
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-linux-log-analyzer.git
+git clone https://github.com/muthuvelpandian4682/ai-linux-log-analyzer.git
 cd ai-linux-log-analyzer
 2. Give execute permission
 chmod +x log_analyzer.sh
 3. Run the script
 ./log_analyzer.sh
+
 📊 Sample Output
 ===== Linux Log Analysis Report =====
 
@@ -54,6 +60,7 @@ Service Failures:
 nginx.service failed to start
 
 ===== End of Report =====
+
 🤖 AI Enhancement Idea
 
 This project was designed with AI assistance to explore how system administrators can:
