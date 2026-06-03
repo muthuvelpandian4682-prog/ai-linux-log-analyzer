@@ -1,0 +1,5 @@
+failed
+error
+disk
+failed to start
+stopped
